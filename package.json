@@ -1,0 +1,23 @@
+{
+  "name": "styled-components",
+  "version": "0.0.253",
+  "description": "Copied source from https://github.com/styled-components/styled-components#basic.",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "latest",
+    "styled-components": "4.0.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
